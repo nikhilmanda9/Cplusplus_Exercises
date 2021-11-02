@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1585511070 source:c:\users\sivam\utd-cs\spring_2020_courses\cs 1337\triviagame\assignment2.cpp
+	"question.h"
+	"triviagame.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1585511138 c:\users\sivam\utd-cs\spring_2020_courses\cs 1337\triviagame\question.h
+	<iostream>
+	<string>
+
+1585509714 c:\users\sivam\utd-cs\spring_2020_courses\cs 1337\triviagame\triviagame.h
+	"question.h"
+	<string>
+
+1585509674 source:c:\users\sivam\utd-cs\spring_2020_courses\cs 1337\triviagame\triviagame.cpp
+	"triviagame.h"
+	"question.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1585511138 source:c:\users\sivam\utd-cs\spring_2020_courses\cs 1337\triviagame\question.cpp
+	"question.h"
+	<iostream>
+	<string>
+
